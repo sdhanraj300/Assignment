@@ -1,0 +1,26 @@
+.nav-bar{
+    display: flex;
+    width: 100vw;   
+}
+
+.logo{
+    margin-left: 20px;
+    width: 10vw;
+}
+.cards ul{
+    list-style: none;
+    display: flex;
+    width: 40vw;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 14rem;
+    margin-top: 1.5rem;
+}
+.login ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 13rem;
+    margin-top: 1.5rem;
+}

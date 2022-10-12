@@ -1,0 +1,25 @@
+.options ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.options li{
+    padding: 6rem;
+    font-size: 19px;
+    width: 30vw;
+}
+.head p{
+    position: absolute;
+    top: 50rem;
+    left: 35rem;
+    font-size: 48px;
+}
+.options{
+    border-radius: 5rem;
+    left: 10rem;
+    top: 55rem;
+    position: absolute;
+    border: 2px solid black;
+    width: 80vw;
+    height: 40vh;
+}

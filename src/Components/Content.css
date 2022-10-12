@@ -1,0 +1,71 @@
+.background img{
+    height: 55vh;
+    width: 85vw;
+    display: flex;
+    margin-left: auto;
+    margin-top: 5rem;
+    margin-right: auto;
+    border-radius: 5rem;
+}
+
+.title{
+    left: 28.5rem;
+    font-size: 45px;
+    position: absolute;
+    color: white;
+    top: 10rem;
+}
+.card{
+    border-radius: 4.5rem;
+    position: absolute;
+    top: 18rem;
+    left: 9.5rem;
+    background-color: rgb(255, 255, 255);  
+    width: 75vw;
+    height: 70vh;
+    display: flex;
+    border-bottom: 2px solid black;
+}
+
+
+.carousel{
+    width:20vw;
+    height: 70vh;
+    content: fit;       
+}
+.carousel .thumb{
+    display: none;
+}
+
+.carousel-text{
+    top: 21.5rem;
+    display: flex;
+    justify-content: space-between;
+    left: 12rem;
+    position: absolute;
+    width: 70vw;
+}
+
+.text{
+    margin-left: 20rem;
+}
+.text h1{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.text .strike p{
+    text-decoration: line-through;
+}
+.desc{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.text button{
+    width: 13rem;
+    height: 5rem;
+    font-size: 24px;
+    background: #000;
+    color: white;
+    border-radius: 20px;
+}
